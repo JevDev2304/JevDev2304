@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JevDev2304 (Juan Esteban Valdés 😶)
 - 👀 I’m interested in programming, tech world and my dream is to become a fullstack developer.
-- 🤓I know Python(FASTAPI),Java, MYSQL, MongoDb and Angular.js (HTML5 and CSS).
+- 🤓I know Python(FASTAPI),Typescript(NestJS and Angular) Java, MYSQL,PostgreSQL and MongoDb.
 - 🌱 I’m currently learning system engineering in Universidad de Medellín and fullstack development in Platzi.
 - 📫 How to reach me : [LinkedIn Profile](https://www.linkedin.com/in/juanesvaldesospina/ "Linkedin Profile")
 
