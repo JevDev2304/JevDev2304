@@ -1,7 +1,7 @@
 # 👋 Hi, I'm @JevDev2304 (Juan Esteban Valdés 😶)
 
 ## 🚀 About Me
-- Passionate about programming, the tech world and development.
+- I’m a Fullstack Developer passionate about programming, the tech world, and development.
 - Native Spanish speaker 🇪🇸 | Fluent in English (B2) 🇬🇧.
 - Currently studying **Systems Engineering (8th semester)** at Universidad de Medellín and **Fullstack Development** at Platzi.
 
