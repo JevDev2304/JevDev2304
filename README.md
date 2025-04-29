@@ -1,9 +1,10 @@
 # 👋 Hi, I'm @JevDev2304 (Juan Esteban Valdés 😶)
 
 ## 🚀 About Me
-- I’m a Fullstack Developer passionate about programming, the tech world, and development.
-- Native Spanish speaker 🇪🇸 | Fluent in English (B2) 🇬🇧.
-- Currently studying **Systems Engineering (8th semester)** at Universidad de Medellín and **Fullstack Development** at Platzi.
+- I’m a Fullstack Developer passionate about programming, the tech world, and development.  
+- Completed **CS50 2024** and **CS50 SQL**, Harvard University online courses. ![CS50](https://img.shields.io/badge/CS50-Harvard-red?style=flat-square&logo=harvard&logoColor=white)  
+- Native Spanish speaker 🇪🇸 | Fluent in English (B2) 🇬🇧.  
+- Currently studying **Systems Engineering (8th semester)** at Universidad de Medellín and **Fullstack Development** at Platzi.  
 
 ## 🛠️ Skills
 
