@@ -35,5 +35,5 @@
 ---
 
 ## 📫 How to reach me
-
+- Email: [jevojob@gmail.com](mailto:jevojob@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Esteban%20Valdés%20Ospina-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanesvaldesospina/)
